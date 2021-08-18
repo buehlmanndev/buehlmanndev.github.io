@@ -151,21 +151,21 @@ content:
   - title: Qualifikationen
     layout: text
     content: | # this will include new lines to allow paragraphs
-      ★★★★☆ Software Architektur
-      ★★★★☆ Microservices
-      ★★★☆☆ Cloud Computing
-      ★★★★☆ Enterprise Architektur
-      ★★★★☆ DevOps
-      ★★★★☆ API Design
-      ★★★☆☆ Continuous Integration
-      ★★★☆☆ OAuth 2
-      ★★★★★ Java
-      ★★★★☆ Spring Boot
-      ★★★☆☆ Python
-      ★★☆☆☆ Angular
-      ★★★☆☆ Sparx Enterprise Architect
-      ★★★★☆ Jira, Confluence, Bitbucket
-      ★★★★☆ Scrum
+      ★★★★☆ Software Architektur |
+      ★★★★☆ Microservices |
+      ★★★☆☆ Cloud Computing |
+      ★★★★☆ Enterprise Architektur |
+      ★★★★☆ DevOps |
+      ★★★★☆ API Design |
+      ★★★☆☆ Continuous Integration |
+      ★★★☆☆ OAuth 2 |
+      ★★★★★ Java |
+      ★★★★☆ Spring Boot |
+      ★★★☆☆ Python |
+      ★★☆☆☆ Angular |
+      ★★★☆☆ Sparx Enterprise Architect |
+      ★★★★☆ Jira, Confluence, Bitbucket |
+      ★★★★☆ Scrum |
       ★★★☆☆ SAFe
 # Footer
 footer_show_references: true
