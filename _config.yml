@@ -117,15 +117,29 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: middle
+      - layout: left
+        title: Kalaidos FH
+        caption: 2020
+        sub_title: CAS in Leadership Advanced
+      - layout: right
+        title: Kalaidos FH
+        caption: 2020
+        sub_title: CAS in Leadership Advanced
+      - layout: top
+        title: Kalaidos FH
+        caption: 2020
+        sub_title: CAS in Leadership Advanced
+      - layout: top-right
+        title: Kalaidos FH
+        caption: 2020
+        sub_title: CAS in Leadership Advanced
+      - layout: top-middle
         title: Kalaidos FH
         caption: 2020
         sub_title: CAS in Leadership Advanced
 
 
 
-
-        
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
