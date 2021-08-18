@@ -114,7 +114,7 @@ content:
 
 
 
-  - title: Education # Title for the section
+  - title: Ausbildung # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top
@@ -148,16 +148,25 @@ content:
 
 
 
-  - title: A Little More About Me
+  - title: Qualifikationen
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      ★★★★☆ Software Architektur
+      ★★★★☆ Microservices
+      ★★★☆☆ Cloud Computing
+      ★★★★☆ Enterprise Architektur
+      ★★★★☆ DevOps
+      ★★★★☆ API Design
+      ★★★☆☆ Continuous Integration
+      ★★★☆☆ OAuth 2
+      ★★★★★ Java
+      ★★★★☆ Spring Boot
+      ★★★☆☆ Python
+      ★★☆☆☆ Angular
+      ★★★☆☆ Sparx Enterprise Architect
+      ★★★★☆ Jira, Confluence, Bitbucket
+      ★★★★☆ Scrum
+      ★★★☆☆ SAFe
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
