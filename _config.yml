@@ -17,7 +17,7 @@ darkmode: false
 
 # Social links
 # twitter_username: facespics
-github_username:  buehlmanndev
+# github_username:  buehlmanndev
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -39,8 +39,8 @@ additional_links:
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+# gtag: "UA-205269729-1"
+google_analytics: "UA-205269729-1"
 
 # About Section
 # about_title: About Me
