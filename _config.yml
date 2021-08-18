@@ -48,14 +48,14 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Ich begeistere Menschen für Konzepte und Ideen und löse zusammen mit ihnen komplexe Probleme in verteilten
   Systemen. Als Engineer, Architekt, Scrummaster oder Productowner bin ich vielseitig einsetzbar und unterstütze
-  Sie mit technischer Kompetenz und Durchsetzungsvermögen.<br/>
+  Sie mit technischer Kompetenz und Durchsetzungsvermögen.<br/><br/>
   Software Bauen aus Passion - End to End und immer mit dem Kunden im Fokus.
 content:
   - title: Arbeitserfahrung # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top
-        title: PO & Architekt / API Management
+        title: Product Owner und Architekt / API Management
         link: developer.sbb.ch
         # link_text: boringcompany.com
         sub_title: SBB Informatik, Bern
@@ -64,7 +64,7 @@ content:
             Als Product Owner API Technologies war ich verantwortlich für die Weiterentwicklung der API Services und Frameworks der SBB. Dazu gehören die öffentliche Webseite developer.sbb.ch, die API Management Plattform, Technologien und Frameworks rund um synchrone, sowie auch eventbasierte APIs. 
             <br/>Ich führte ein Team von 5 Entwicklern und Architekten in einem skalierten (SAFe) Umfeld.
       - layout: top
-        title: Teamleiter Softwareengineering, Integration Architect
+        title: Teamleiter Softwareengineering und Integration Architect
         # link: 
         # link_text: boringcompany.com
         sub_title: SBB Informatik, Bern
@@ -103,13 +103,13 @@ content:
             Comlab AG ist führend in der Herstellung und Installation von Tunnelfunkanlagen. Zur Konfiguration und Überwachung verschiedener Generationen dieser Systeme wurde ein Konfigurations- und Überwachungssystem entwickelt. Dieses System diente auch als Aggregator der Daten für die weitere Verwendung der Daten in Kundenspezifischen Systemen.
             Ich durfte die Entwicklung des Systems von der Konzeption bis zur Integration bei diversen Endkunden begleiten.
       - layout: top
-        title: Entwicklungsingenieur
+        title: Entwicklungsingenieur / Blutpumpensteuerung
         # link: 
         # link_text: boringcompany.com
         sub_title: ARTORG Center for Biomedical Engineering Research, Bern
         caption: September 2012 – März 2013
         description: | # this will include new lines to allow paragraphs
-            Design, Entwicklung und Produktion (Hardware &amp;   Software, POC) einer Kostengünstigen Blutpumpensteuerung zur Versorgung von Extremitäten.
+            Design, Entwicklung und Produktion (Hardware & Software, Proof of Concept) einer Kostengünstigen Blutpumpensteuerung zur Versorgung von Extremitäten.
             <br/>Begleitung der Versuchsreihen.
 
 
@@ -117,26 +117,34 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        title: Kalaidos FH
-        caption: 2020
-        sub_title: CAS in Leadership Advanced
-      - layout: right
-        title: Kalaidos FH
-        caption: 2020
-        sub_title: CAS in Leadership Advanced
       - layout: top
-        title: Kalaidos FH
+        title: CAS in Leadership Advanced, Kalaidos FH
         caption: 2020
-        sub_title: CAS in Leadership Advanced
-      - layout: top-right
-        title: Kalaidos FH
-        caption: 2020
-        sub_title: CAS in Leadership Advanced
-      - layout: top-middle
-        title: Kalaidos FH
-        caption: 2020
-        sub_title: CAS in Leadership Advanced
+      - layout: top
+        title: Compass Security, Web Application Security Basic 
+        caption: 2019
+      - layout: top
+        title: iSAQB®, Software Architekt 
+        sub_title: Professional & Advanced Level (Module FLEX - Flexible Architekturmodelle, AGILA - Agile Softwarearchitektur und WEB – Web-Architekturen)
+        caption: 2018
+      - layout: top
+        title: eduRail, Lehrgan Bahntechnik 
+        caption: 2018
+      - layout: top
+        title: BFH - Bern University of Applied Sciences,  Master of Advanced Studies in Information Technology
+        caption: 2017
+      - layout: top
+        title: Universität St. Gallen,  SBB – Digital Innovation und Business Transformation Light
+        caption: 2017
+      - layout: top
+        title: Scrum Alliance,  Certified ScrumMaster
+        caption: 2016
+      - layout: top
+        title: Digicomp,  JavaScript-Programmierung
+        caption: 2016
+      - layout: top
+        title: BFH - Bern University of Applied Sciences,  Bachelor of Science in Electrical Engineering
+        caption: 2012
 
 
 
