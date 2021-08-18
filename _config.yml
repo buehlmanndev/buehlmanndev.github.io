@@ -102,7 +102,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             Comlab AG ist führend in der Herstellung und Installation von Tunnelfunkanlagen. Zur Konfiguration und Überwachung verschiedener Generationen dieser Systeme wurde ein Konfigurations- und Überwachungssystem entwickelt. Dieses System diente auch als Aggregator der Daten für die weitere Verwendung der Daten in Kundenspezifischen Systemen.
             Ich durfte die Entwicklung des Systems von der Konzeption bis zur Integration bei diversen Endkunden begleiten.
-      - layout: left
+      - layout: top
         title: Entwicklungsingenieur
         # link: 
         # link_text: boringcompany.com
