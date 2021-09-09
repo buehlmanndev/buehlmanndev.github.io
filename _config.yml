@@ -32,14 +32,13 @@ xing_username: Christoph_Buehlmann3
 
 # Additional icon links
 additional_links:
-title: schaltstelle. gemeinsam. selbstständig.
-icon: fa-house-user
-url: https://schaltstelle.ch
+- title: schaltstelle
+  icon: fas fa-globe
+  url: https://schaltstelle.ch
 
-# additional_links:
-# title: schaltstelle. gemeinsam. selbstständig.
-# icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-# url: Link url (eg. https://google.com)
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -54,7 +53,8 @@ about_content: | # this will include new lines to allow paragraphs
   Ich begeistere Menschen für Konzepte und Ideen und löse zusammen mit ihnen komplexe Probleme in verteilten
   Systemen. Als Engineer, Architekt, Scrummaster oder Productowner bin ich vielseitig einsetzbar und unterstütze
   Sie mit technischer Kompetenz und Durchsetzungsvermögen.<br/><br/>
-  Software Bauen aus Passion - End to End und immer mit dem Kunden im Fokus.
+  Software Bauen aus Passion - End to End und immer mit dem Kunden im Fokus.<br/><br/>
+  Als teil der [schaltstelle](https://schaltstelle.ch) kann ich auf ein breites Netzwerk an zusätzlichen Experten zurückgreifen.
 content:
   - title: Arbeitserfahrung # Title for the section
     layout: list # Type of content section (list/text)
@@ -68,6 +68,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             Als Product Owner API Technologies war ich verantwortlich für die Weiterentwicklung der API Services und Frameworks der SBB. Dazu gehören die öffentliche Webseite developer.sbb.ch, die API Management Plattform, Technologien und Frameworks rund um synchrone, sowie auch eventbasierte APIs. 
             <br/>Ich führte ein Team von 5 Entwicklern und Architekten in einem skalierten (SAFe) Umfeld.
+            <br/>Eingesetzte Technologien & Frameworks: Java, Spring Boot, Angular, Jenkins, Atlassian Tools, RedHat Openshift und 3scale, OAuth 2, AWS (Route 53, S3, Elasticache, RDS), Structurizr, Scrum, SAFe
       - layout: top
         title: Teamleiter Softwareengineering und Integration Architect
         # link: 
@@ -78,6 +79,7 @@ content:
             Aufbau eines Teams von 15 internen Software-Architekten und Engieers aller Senioritäten sowie Linienführung derselben. Vertragsmanagement und Ausschreibung von Rahmenverträgen im Bereich Engineering. 
             Organisation von internen Konferenzen mit bis 200 Personen. 
             Integration Architektur auf Enterprise-Level. Definition und Umsetzung von Richtlinien und Standards in der Integration, Fokus auf die Schaffung einer API orientierten Anwendungslandschaft innerhalb der SBB.
+            <br/>Eingesetzte Technologien & Frameworks: Kollegiale Führung, MS Office-Palette, Sparx Enterprise Architect, Java, Spring Boot, Jenkins, Atlassian Tools, RedHat Openshift
       - layout: top
         title: Software Engineer und Architekt / TMS
         # link: 
@@ -88,6 +90,7 @@ content:
             Im Rahmen von smartrail 4.0 wird ein sogenanntes Traffic Management System (TMS) entwickelt. Ein wichtiges Ziel dabei ist es, Fahrpläne automatisch so zu erstellen, damit die Kapazität auf dem Schienennetz optimal genutzt wird.
             Technisch ist TMS eine eventbasierte Microservice-Applikation mit Spring Boot Services und Angular Microfrontends. Die Services werden in Openshift betrieben und kommunizieren via RabbitMQ Messaging.
             Ich konnte die SBB als Fullstack-Entwickler und Architekt unterstützen sowie das Staffing des Projekts begleiten.
+            <br/>Eingesetzte Technologien & Frameworks: Java & Kotlin, Spring Boot, Angular, Jenkins, Atlassian Tools, RedHat Openshift, RabbitMQ, AWS (S3), IBM CPLEX Optimizer, Gurobi Optimizer, Sparx Enterprise Architect, Scrum
       - layout: top
         title: Software Engineer und Architekt, Scrum Master / NeTS
         # link: 
@@ -98,6 +101,7 @@ content:
             Die Anwendung NeTS wird für die Fahrplanplanung eingesetzt und unterstützt die Geschäftsprozesse der SBB Infrastruktur beim Erstellen des Fahrplans, nach welchem sämtliche Züge der Schweiz verkehren. Über 4'000 User planen jährlich mehr als 200'000 Züge für die gesamte Schweiz, bearbeiten mehr als 350'000 Bestellpositionen und beliefern als Basissystem über 50 Abnehmersysteme mit dem aktuellen Fahrplan.
             Technisch ist NeTS als klassische 3 Tier Applikation aufgebaut. Eclipse RCP im Frontend, ein JEE Monolith im Backend und die Datenhaltung auf Oracle.
             Ich konnte die SBB als Fullstack-Entwickler, Architekt Scrum Master und bei der Agilisierung der Projektorganisation mit rund 40 Personen unterstützen. So konnte ich unter anderem auch erste Schritte zur Zerschlagung des Monolithen initiieren und die Migrationsplanung in kleinere Teilapplikationen / Microservices ausarbeiten.
+            <br/>Eingesetzte Technologien & Frameworks: Java EE, Eclipse RCP, Oracle Database, Websphere Application Server, Jenkins, Atlassian Tools, Sparx Enterprise Architect, Scrum
       - layout: top
         title: Software Engineer / Konfigurationssystem für Netzwerkelemente
         # link: 
@@ -107,6 +111,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             Comlab AG ist führend in der Herstellung und Installation von Tunnelfunkanlagen. Zur Konfiguration und Überwachung verschiedener Generationen dieser Systeme wurde ein Konfigurations- und Überwachungssystem entwickelt. Dieses System diente auch als Aggregator der Daten für die weitere Verwendung der Daten in Kundenspezifischen Systemen.
             Ich durfte die Entwicklung des Systems von der Konzeption bis zur Integration bei diversen Endkunden begleiten.
+            <br/>Eingesetzte Technologien & Frameworks: Java, GWT, SNMP, Jenkins, Bash
       - layout: top
         title: Entwicklungsingenieur / Blutpumpensteuerung
         # link: 
