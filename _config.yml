@@ -96,7 +96,7 @@ content:
         # link: 
         # link_text: boringcompany.com
         sub_title: SBB Informatik, Bern
-        caption: Januar 2018 – Mai 2019
+        caption: August 2015 – Dezember 2017
         description: | # this will include new lines to allow paragraphs
             Die Anwendung NeTS wird für die Fahrplanplanung eingesetzt und unterstützt die Geschäftsprozesse der SBB Infrastruktur beim Erstellen des Fahrplans, nach welchem sämtliche Züge der Schweiz verkehren. Über 4'000 User planen jährlich mehr als 200'000 Züge für die gesamte Schweiz, bearbeiten mehr als 350'000 Bestellpositionen und beliefern als Basissystem über 50 Abnehmersysteme mit dem aktuellen Fahrplan.
             Technisch ist NeTS als klassische 3 Tier Applikation aufgebaut. Eclipse RCP im Frontend, ein JEE Monolith im Backend und die Datenhaltung auf Oracle.
